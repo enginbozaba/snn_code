@@ -4,7 +4,6 @@ https://travis-ci.org/enginbozaba/snn_code.svg?branch=master
 
 | Files/Directory name | Description | Status |
 | :---               |     :---:      |   :---: |
-| git status         | git status     | :heavy_check_mark:    |
 | receptive_field.py | git diff       | :fire:      |
 | spike_train.py     | git diff       | :fire:      |
 | neuron.py          | git diff       | :fire:      |
