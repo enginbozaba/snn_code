@@ -8,4 +8,4 @@
 | Files/Directory name | Description | Status |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | :heavy_check_mark:    |
-| git diff     | git diff       | git diff      |
+| git diff     | git diff       | :fire:      |
