@@ -1,7 +1,6 @@
-https://travis-ci.org/enginbozaba/snn_code.svg?branch=master
 # Project Title : Spiking Neural Network with Python
 
-
+## Project files/Directory name
 | Files/Directory name | Description | Status |
 | :---               |     :---:      |   :---: |
 | receptive_field.py | git diff       | :fire:      |
