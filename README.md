@@ -1,6 +1,6 @@
 # Project Title : Spiking Neural Network with Python
 
-## Project files/Directory name
+#### Project files/Directory name
 | Files/Directory name | Description | Status |
 | :---               |     :---:      |   :---: |
 | receptive_field.py | git diff       | :fire:      |
