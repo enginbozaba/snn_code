@@ -1,11 +1,12 @@
 # 
-| Files/Directory name | Description |
-| --- | --- |
-| template.py | Includes a  class that is  for visualization. |
-| recep_field.py | Show file differences that haven't been staged |
-
 
 | Files/Directory name | Description | Status |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | :heavy_check_mark:    |
-| git diff     | git diff       | :fire:      |
+| :---               |     :---:      |   :---: |
+| git status         | git status     | :heavy_check_mark:    |
+| receptive_field.py | git diff       | :fire:      |
+| spike_train.py     | git diff       | :fire:      |
+| neuron.py          | git diff       | :fire:      |
+| learning.py        | git diff       | :fire:      |
+| visualization.py   | git diff       | :fire:      |
+
+
