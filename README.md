@@ -1,6 +1,7 @@
 # Project Title : Spiking Neural Network with Python
 
-###### 1
+
+
 | Files/Directory name | Description | Status |
 | :---               |     :---:      |   :---: |
 | receptive_field.py | create potential map from image      | :fire:      |
