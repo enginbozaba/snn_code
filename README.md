@@ -1,4 +1,6 @@
-# 
+
+# Project title : Spiking neural Network
+
 
 | Files/Directory name | Description | Status |
 | :---               |     :---:      |   :---: |
