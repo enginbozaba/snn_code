@@ -1,5 +1,5 @@
 
-# Project title : Spiking neural Network
+# Project Title : Spiking Neural Network with Python
 
 
 | Files/Directory name | Description | Status |
